@@ -363,33 +363,6 @@ python run.py --debug
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-```bash
-# 1. Fork the repository and clone it
-git clone https://github.com/Athexblackhat/MARKHOR-Forge.git
-cd MARKHOR-Forge
-
-# 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate       # Linux/macOS
-venv\Scripts\activate          # Windows
-
-# 3. Install development dependencies
-pip install -r requirements.txt
-
-# 4. Create a feature branch
-git checkout -b feature/your-feature-name
-
-# 5. Make changes, then commit
-git commit -m "Add: your feature description"
-
-# 6. Push and open a Pull Request
-git push origin feature/your-feature-name
-```
-
 ### Code Style Guidelines
 
 - Follow [PEP 8](https://pep8.org/) conventions
