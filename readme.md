@@ -282,7 +282,7 @@ A controlled lab environment featuring vulnerable endpoints for practice, includ
 ### Command Line Arguments
 
 ```bash
-python markhor_cyber_lab.py [OPTIONS]
+python run.py [OPTIONS]
 
   --no-splash    Disable splash screen
   --debug        Enable debug logging
@@ -358,7 +358,7 @@ Run with appropriate permissions or change the output directory in settings.
 
 Enable verbose logging:
 ```bash
-python markhor_cyber_lab.py --debug
+python run.py --debug
 ```
 
 ---
